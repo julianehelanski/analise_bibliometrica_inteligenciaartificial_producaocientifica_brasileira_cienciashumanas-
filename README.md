@@ -368,7 +368,7 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para d
 
 **Juliane Helanski**
 
-- Email: [julianhelanski@gmail.com.com]
+- Email: [julianhelanski@gmail.com]
 - LinkedIn: [linkedin.com/in/juliane-helanski-737314234]
 - GitHub: [@julianehelanski]
 
